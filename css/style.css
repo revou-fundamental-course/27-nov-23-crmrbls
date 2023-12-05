@@ -1,0 +1,49 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@latest/font/bootstrap-icons.css");
+.frontpage {
+    background-color: gray; 
+    height: 100vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.container {
+    background-color: white; padding: 60px; line-height: 1.8;
+}
+
+.insertform {
+    margin: 30px; 
+    padding: 20px;
+}
+
+.copyleft {
+    display:inline-block;
+    transform: rotate(180deg);
+  }
+
+.segitiga {
+    max-block-size: 200px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin: 20px;
+}
+
+.rumusimg {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    max-width: 90%;
+}
+
+.insContent {
+    margin: 30px;
+}
+
+.insForm {
+    padding: 30px;
+}
+
+.formResult {
+    padding: 10px;
+    text-align: center;
+    font-size: larger
+}
